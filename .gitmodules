@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "distillML"]
+	path = distillML
+	url = https://github.com/forestry-labs/distillml
+	shallow = true
+	registered = true
 [submodule "Rforestry"]
 	path = Rforestry
 	url = https://github.com/forestry-labs/rforestry
