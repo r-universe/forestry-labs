@@ -1,9 +1,5 @@
 [
   {
-    "package": "distillML",
-    "oncran": true
-  },
-  {
     "package": "Rforestry",
     "oncran": true
   }
