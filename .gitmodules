@@ -8,8 +8,3 @@
 	url = https://github.com/forestry-labs/distillml
 	shallow = true
 	registered = true
-[submodule "Rforestry"]
-	path = Rforestry
-	url = https://github.com/forestry-labs/rforestry
-	shallow = true
-	registered = true
