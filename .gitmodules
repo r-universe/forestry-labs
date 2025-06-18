@@ -5,6 +5,3 @@
 [submodule "Rforestry"]
 	path = Rforestry
 	url = https://github.com/forestry-labs/rforestry
-[submodule "distillML"]
-	path = distillML
-	url = https://github.com/forestry-labs/distillml
